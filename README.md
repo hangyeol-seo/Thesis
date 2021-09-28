@@ -1,5 +1,4 @@
-# Title
-Security Framework for ML service based on Cloud
+# Title: Security Framework for ML service based on Cloud
 
 ## 1. Attacks
 ### 1-1. Model Hyperparameter Stealing Attack
